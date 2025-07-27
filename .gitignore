@@ -4,7 +4,7 @@
 
 # .terraform.lock.hcl can be included, but you may choose to ignore it in early dev
 # Uncomment the next line to ignore lock file
-# .terraform.lock.hcl
+.terraform.lock.hcl
 
 # Ignore Terraform state files
 *.tfstate
